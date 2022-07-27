@@ -34,11 +34,11 @@ let wktu = moment.tz('Asia/Jakarta').format('HH:mm:ss')
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6', ''] // ganti jadi group lu
+global.linkGC = ['', ''] // ganti jadi group lu
 global.owner = ['62895627514070'] // Put your number here //owner eval
-global.kontak = ['62895627514070','0'] //Ketika ada yang ngetik #owner
-global.mods = ['62895627514070'] // Want some help?
-global.prems = ['62895627514070'] // Premium user has unlimited limit
+global.kontak = ['628981614707','0'] //Ketika ada yang ngetik #owner
+global.mods = ['628981614707'] // Want some help?
+global.prems = ['628981614707'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -73,24 +73,24 @@ leyskey = 'dappakntlll'
 bearkey = 'buy'
 
 //xteam        MIMINETBOT
-namaig = 'https://instagram.com/sfdesign_id'
+namaig = ''
 namagithub = 'sedang mencari'
-kasihcaption = `Nih kak`
-namakontak1 = 'Han'
+kasihcaption = `SELESAI`
+namakontak1 = 'MFX'
 namakontak2 = ''
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `SELESAI`
 
 // Sticker WM
 global.packname = 'fαchrí вσtz' // ganti aja
-global.author = '© 6285713041886' // ganti aja
+global.author = '© 628981614707' // ganti aja
 
 //yyy
 bc = 'fαchrí-вσtz' //King Of Bear Broadcast
-footer = '\nElainaBot'
-namabot = '© Elaina вσtz'
+footer = '\MFX'
+namabot = '© fαchrí вσtz'
 namalu = 'Rayhan'
-global.botwm = '© ꋊ ElainaBotz ꋊ'//UBAH JADI NAMAMU
+global.botwm = '© ꋊ Fachri - BOTZ ꋊ'//UBAH JADI NAMAMU
 
 
 // 
